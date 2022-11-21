@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @afonnzo
+- 🌱 I’m currently learning Html, Css and Javascript
+- 🕵️ I am a corporal of the Brazilian army
